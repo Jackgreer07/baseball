@@ -4,4 +4,6 @@ title: "Baseball"
 
 # Baseball Through the Years
 
-Welcome! This site explores the history of Major League Baseball through its data, using the Lahman database. We’ll look at players, teams, and seasons to see how the game has changed over time.
+Using the Lahman database, this site explores the history of Major League Baseball through its data. Season totals can make shortened schedules look like dramatic home-run collapses; comparing home runs per team-game gives a fairer view of how hitting changed.
+
+The Sluggers page highlights career home-run leaders and follows Barry Bonds season by season. Use the analysis pages in the navbar to explore the charts and comparisons.
