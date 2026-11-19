@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baseball",
+    "section": "",
+    "text": "Baseball Through the Years\nUsing the Lahman database, this site explores the history of Major League Baseball through its data. Season totals can make shortened schedules look like dramatic home-run collapses; comparing home runs per team-game gives a fairer view of how hitting changed.\nThe Sluggers page highlights career home-run leaders and follows Barry Bonds season by season. Use the analysis pages in the navbar to explore the charts and comparisons."
+  },
+  {
+    "objectID": "home-runs.html#comparing-seasons",
+    "href": "home-runs.html#comparing-seasons",
+    "title": "Home runs",
+    "section": "Comparing seasons",
+    "text": "Comparing seasons\n\n\n# A tibble: 4 × 4\n  yearID total_home_runs total_team_games home_runs_per_game\n   &lt;int&gt;           &lt;int&gt;            &lt;int&gt;              &lt;dbl&gt;\n1   1981            1781             2788              0.639\n2   1994            3306             3200              1.03 \n3   2019            6776             4858              1.40 \n4   2020            2304             1796              1.28"
+  }
+]
